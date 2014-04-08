@@ -1,0 +1,7 @@
+<soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+   <soap:Body>
+      <n:divideResponse xmlns:n="http://www.parasoft.com/wsdl/calculator/">
+         <n:Result xsi:type="xsd:float">5.0</n:Result>
+      </n:divideResponse>
+   </soap:Body>
+</soap:Envelope>
